@@ -15,6 +15,11 @@
 </p>
 
 <p align="center"><b>
+ROSETTA-SPIDERBYTE
+Development is ongoing offline as of July 10th, 2022
+</b></p>
+
+<p align="center"><b>
 ROSETTA-BITCOIN IS CONSIDERED <a href="https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha">ALPHA SOFTWARE</a>.
 USE AT YOUR OWN RISK.</b><p>
 <p align="center">This project is available open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).</p>
